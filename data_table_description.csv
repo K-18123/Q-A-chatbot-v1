@@ -1,0 +1,5 @@
+Table,description
+call,"Tracks calls between employees and customers, including start and end times, and outcomes."
+call_outcome,"Stores possible outcomes of calls, such as 'call started' or 'finished successfully'."
+customer,"Contains information about customers, their addresses, and next call dates."
+employee,Stores employee details such as first and last names.
